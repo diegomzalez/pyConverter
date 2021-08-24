@@ -7,7 +7,7 @@ def menu () :
     while i == True:
         currency_name = str(input("""
           
-            ¿Qué moneda deseas convertir?
+            What currency type do you want to convert?
             -(VEF) to select VEF type: 'vef'.
             -(MXN) to select MXN type: 'mxn'.
             -(ARG) to select ARG type: 'arg'.
